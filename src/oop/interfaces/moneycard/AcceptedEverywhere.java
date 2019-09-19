@@ -3,7 +3,7 @@
  * Section 1: Intermediate Topics
  * Lecture 2: Interfaces
  */
-package oop.interfaces;
+package oop.interfaces.moneycard;
 
 public class AcceptedEverywhere implements Acceptability {
 	

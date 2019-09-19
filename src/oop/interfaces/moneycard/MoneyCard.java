@@ -4,7 +4,7 @@
  * Lecture 3: Practical Interface Example
  */
 
-package oop.interfaces;
+package oop.interfaces.moneycard;
 
 public class MoneyCard {
 	
