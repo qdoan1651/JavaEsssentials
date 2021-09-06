@@ -1,0 +1,5 @@
+Jerry Seinfield, 100, 100000
+Madonna, 200, 200000
+Tom Brady, 300, 300000
+Tom Hank, 400, 400000
+Jerry ?, 500, 500000
