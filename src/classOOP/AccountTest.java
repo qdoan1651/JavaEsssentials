@@ -13,14 +13,14 @@ public class AccountTest {
 	}
 	
 public static void arrayObject1() {
-// Create an array of 3 Account objects
-Account[] accounts1 = {new Account(), new Account(), new Account()};
-
-// Manually instantiate the accounts
-Account[] accounts2 = {new Account("Tom Brady", 100, 500000),
-					   new Account("Jerry West", 200, 123456),
-					   new Account("Arnold Palmer", 300, 99999)
-					  };
+	// Create an array of 3 Account objects
+	Account[] accounts1 = {new Account(), new Account(), new Account()};
+	
+	// Manually instantiate the accounts
+	Account[] accounts2 = {new Account("Tom Brady", 100, 500000),
+						   new Account("Jerry West", 200, 123456),
+						   new Account("Arnold Palmer", 300, 99999)
+						  };
 	// Display info from accounts
 	System.out.println("Display accounts information");
 	for (Account account: accounts2) {
